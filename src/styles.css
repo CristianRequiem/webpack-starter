@@ -1,0 +1,4 @@
+/* Color de fondo para el html y el body */
+html, body {
+    background-color: orange;
+}
